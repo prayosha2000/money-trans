@@ -1,0 +1,14 @@
+/* BalanceDisplay.css */
+
+.balance-display-container {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+  }
+  
+  .balance-display-item {
+    margin-bottom: 10px;
+  }
+  
+  

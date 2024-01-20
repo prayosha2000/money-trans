@@ -1,0 +1,42 @@
+
+
+.expense-form-button:hover {
+  background-color: #0056b3; /* Change the color as needed */
+}
+/* ExpenseForm.css */
+
+.expense-form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: url('./money1.jpg') center center/cover;
+  padding: 20px; /* Add padding for better spacing */
+  border: 1px solid #080808; /* Add a border for visibility */
+}
+
+.expense-form-label {
+  font-size: 16px; /* Adjust the font size */
+  font-weight: bold; /* Make the text bold */
+  color: #f7f4f4; /* Set the text color to black */
+  margin-bottom: 5px; /* Add margin for better spacing */
+}
+
+.expense-form-input {
+  width: 50%; /* Set the input width to 50% */
+  padding: 8px; /* Add padding for better appearance */
+  margin-bottom: 10px; /* Add margin for better spacing */
+}
+
+.expense-form-button {
+  background-color: #007bff; /* Set the button background color */
+  color: #fff; /* Set the button text color to white */
+  padding: 10px 20px; /* Add padding for better appearance */
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+}
+
+/* Add other styles as needed */
+
+  
